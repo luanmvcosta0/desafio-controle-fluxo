@@ -14,7 +14,7 @@ public class Contador {
 
     }
 
-    static void contar (int parametroUm, int parametroDois) throws ParametrosInvalidosExcpetion{
+    static void contar (int parametroUm, int parametroDois) throws ParametrosInvalidosException{
 
     }
 }
