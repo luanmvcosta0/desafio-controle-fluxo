@@ -13,4 +13,8 @@ public class Contador {
         int parametroDois = terminal.nextInt();
 
     }
+
+    static void contar (int parametroUm, int parametroDois) throws ParametrosInvalidosExcpetion{
+
+    }
 }
